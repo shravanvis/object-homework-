@@ -2,6 +2,7 @@ var person = new Object();
     person.Firstname = 'shravan'
     person.Lastname = 'kumar'
     person.age = '20'
+    person.hight = '6'
 
     console.log(person)
     console.log(typeof person)
@@ -13,3 +14,4 @@ var person = new Object();
     console.log(person.Firstname)
     console.log(person.Lastname)
     console.log(person.age)
+    console.log(person.hight)
